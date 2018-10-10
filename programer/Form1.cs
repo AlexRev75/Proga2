@@ -384,3 +384,5 @@ namespace programer
         }
     }
 }   
+// ты понял ?
+не совсем
